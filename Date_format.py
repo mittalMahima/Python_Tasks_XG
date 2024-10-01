@@ -38,3 +38,5 @@ def recognize_date_format(date_input):
 
 date_string = input("Enter the date to check the format : ")
 recognize_date_format(date_string)
+
+#  using a dictionary 2 formats can't be defined because similar key will overwrite the value so adding another code in a   new file.
